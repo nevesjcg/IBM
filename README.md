@@ -1,4 +1,4 @@
-# testrepoibm
+# IBM
 
 ## Editing the file
 
