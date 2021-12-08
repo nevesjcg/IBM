@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its a markdown file in this repository.
+This is a repository for IBM Data Science Projects.
